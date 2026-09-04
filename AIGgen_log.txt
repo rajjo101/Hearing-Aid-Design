@@ -1,0 +1,5 @@
+Begining the AIS file generation.
+AIS file being generated for bootmode: NONE.
+Parsing the input object file, C:\C6748_McASP_Boot\boot.out.
+AIS file generation was successful.
+***Wrote 20980 bytes to file C:\C6748_McASP_Boot\boot.ais
